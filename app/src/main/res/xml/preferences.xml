@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:key="notifications"
+        app:title="个人信息"/>
+    <Preference
+        app:key="feedback"
+        app:title="账号管理"
+        app:summary=""/>
+    <Preference
+        app:key="feedback"
+        app:title="主题"
+        app:summary=""/>
+    <Preference
+        app:key="feedback"
+        app:title="版本介绍"
+        app:summary="1.0"/>
+    <Preference
+        app:key="feedback"
+        app:title="检查更新"
+        app:summary=""/>
+
+</PreferenceScreen>

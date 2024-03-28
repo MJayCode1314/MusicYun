@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/title_list"
+        android:title="私信"
+        android:icon="@drawable/ic_message"
+        app:showAsAction="collapseActionView|ifRoom"
+        />
+    <item android:id="@+id/add_btn"
+        android:title="私信"
+        android:icon="@drawable/ic_message"
+        app:showAsAction="collapseActionView|ifRoom"
+        />
+</menu>
